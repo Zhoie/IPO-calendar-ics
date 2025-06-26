@@ -1,0 +1,43 @@
+name: Update IPO Calendar
+
+permissions:
+  contents: write   # allow push back to repo
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # 11:00 Beijing Time every day
+    - cron: '0 15 * * *'  # 23:00 Beijing Time every day
+  workflow_dispatch:      # allow manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🔧 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+          cache-dependency-path: 'requirements.txt'
+
+      - name: 📦 Install deps
+        run: pip install -r requirements.txt
+
+      - name: 🚀 Generate IPO ICS
+        env:
+          FINNHUB_TOKEN: ${{ secrets.FINNHUB_TOKEN }}
+        run: python scripts/ipo_calendar_generator.py
+
+      - name: 📝 Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ $(git status --porcelain) ]]; then
+            git add ipo_calendar.ics
+            git commit -m "chore(ci): refresh IPO calendar (auto) [skip ci]"
+            git push
+          fi

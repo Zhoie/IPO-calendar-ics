@@ -1,0 +1,25 @@
+# Web scraping and HTTP requests
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Calendar and date handling
+icalendar>=5.0.7
+python-dateutil>=2.8.2
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# Optional: For more advanced web scraping if needed
+selenium>=4.15.0
+
+# Optional: For scheduling if implementing automated updates
+schedule>=1.2.0
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
