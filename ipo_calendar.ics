@@ -2,188 +2,188 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250701
-DESCRIPTION:Company : CapsoVision\, Inc\nExchange: NASDAQ Capital\nShares  : 5 M\nPrice   : 5.00-5.50\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: CV
-UID:9584eb64-1f3c-465b-bda2-5fa83e967472@9584.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250618
-DESCRIPTION:Company : Slide Insurance Holdings\, Inc.\nExchange: NASDAQ Global Select\nShares  : 24 M\nPrice   : $17.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global Select
-SUMMARY:IPO: SLDE
-UID:dd503871-5f54-4912-8df7-65ea73b5ad9f@dd50.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250624
-DESCRIPTION:Company : E I L Holdings Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:8bd682e4-8529-4751-bfba-81f322caac69@8bd6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250618
-DESCRIPTION:Company : Pioneer Acquisition I Corp\nExchange: NASDAQ Global\nShares  : 22 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: PACHU
-UID:498cf093-e82f-4341-9253-b561eee88349@498c.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250702
 DESCRIPTION:Company : Vendome Acquisition Corp I\nExchange: NASDAQ\nShares  : 20 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ
 SUMMARY:IPO: VNMEU
-UID:aa4ec1bd-1e57-4dce-8dad-40d7afc66487@aa4e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250626
-DESCRIPTION:Company : CARLSMED\, INC.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: CARL
-UID:a1b41246-e039-473e-adf6-355c48cced9a@a1b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250617
-DESCRIPTION:Company : Camerry New Material Tech Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: CNMT
-UID:c5cc7679-3a71-4faf-ab35-a5d04510e236@c5cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250626
-DESCRIPTION:Company : Cantor Equity Partners III\, Inc.\nExchange: NASDAQ Global\nShares  : 24 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: CAEP
-UID:7d49d285-5093-4002-83cb-1bb5a2b8a672@7d49.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250618
-DESCRIPTION:Company : Axiom Intelligence Acquisition Corp 1\nExchange: NASDAQ Global\nShares  : 18 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: AXINU
-UID:bc5c4771-2f9e-46d1-894b-0f5382376c22@bc5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250626
-DESCRIPTION:Company : Blueport Acquisition Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: BPAC
-UID:3e53302c-c97d-4eca-92f9-e68e8459a7a9@3e53.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250618
-DESCRIPTION:Company : Caris Life Sciences\, Inc.\nExchange: NASDAQ Global Select\nShares  : 24 M\nPrice   : $21.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global Select
-SUMMARY:IPO: CAI
-UID:d0495d2d-1985-40e1-8b40-55c5aab1c5f8@d049.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250617
-DESCRIPTION:Company : Jyong Biotech Ltd.\nExchange: NASDAQ Global\nShares  : 3 M\nPrice   : $7.50\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: MENS
-UID:749311a8-f74b-442d-8e43-e0cb59c81aab@7493.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250624
-DESCRIPTION:Company : Spirits Capital Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:f2c6f44b-0e1f-4022-a665-13f6147e3cbe@f2c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250625
-DESCRIPTION:Company : Kandal M Venture Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: FMFC
-UID:dd436180-60ac-4ce0-8646-8678944d90bc@dd43.org
+UID:8695a339-2ee0-4a7c-a9cf-41cb1df27016@8695.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250616
-DESCRIPTION:Company : Kilcoy Global Foods\, Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: KGF
-UID:7a7c9615-f517-498f-873a-f078bfd3a415@7a7c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250618
-DESCRIPTION:Company : CSLM Acquisition Corp II\, Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: KOYN
-UID:08201508-2438-48f7-a1ce-59c4d00dbdd4@0820.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250627
-DESCRIPTION:Company : Yorkville Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 15 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: YORKU
-UID:2f5c6aa7-2334-4475-92e6-acf270726990@2f5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250626
-DESCRIPTION:Company : Jefferson Capital\, Inc. / DE\nExchange: NASDAQ Global Select\nShares  : 10 M\nPrice   : $15.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global Select
-SUMMARY:IPO: JCAP
-UID:067455cb-e4bb-4952-840a-d7e86c17b5c4@0674.org
+DESCRIPTION:Company : Solarius Capital Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: SOCAU
+UID:ed453d28-6602-4eb0-9edc-5d4bbde144c5@ed45.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
 DESCRIPTION:Company : Oxley Bridge Acquisition Ltd\nExchange: NASDAQ Global\nShares  : 22 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: OBAWU
-UID:4dc744fc-d8fb-450b-aed7-f8729d833e7c@4dc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250620
-DESCRIPTION:Company : Neuro Spectrum Insights\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:c8b7fc50-8774-4bf1-823d-1336c8432c07@c8b7.org
+UID:802524d0-882e-4a1d-b5e1-71da94737c4c@8025.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250618
-DESCRIPTION:Company : Fuxing China Group Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : 4.00-6.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: FFFZ
-UID:9d1c9fa6-9c6f-4588-96fd-ff4496b9f9c4@9d1c.org
+DESCRIPTION:Company : CSLM Acquisition Corp II\, Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: KOYN
+UID:df006182-0393-4675-af92-1e7ad7cf5b31@df00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250618
+DESCRIPTION:Company : Pioneer Acquisition I Corp\nExchange: NASDAQ Global\nShares  : 22 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: PACHU
+UID:8c2986fb-8b91-42ef-afc6-b750538952bc@8c29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250618
+DESCRIPTION:Company : Axiom Intelligence Acquisition Corp 1\nExchange: NASDAQ Global\nShares  : 18 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: AXINU
+UID:2479fd98-d134-49af-a83a-9fc8e49e954b@2479.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250617
 DESCRIPTION:Company : BM Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: BMOKU
-UID:70267b3e-ad23-4b20-99f5-aa9ca534e049@7026.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250626
-DESCRIPTION:Company : Julong Holding Ltd\nExchange: NASDAQ Capital\nShares  : 1 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: JLHL
-UID:abcc3b4b-0bea-44d8-a21f-906af7238933@abcc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250625
-DESCRIPTION:Company : LightWave Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 19 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: LWACU
-UID:2f26e3e4-6da6-49d3-8320-32e74a923e8f@2f26.org
+UID:f49703f9-7a13-4e15-9602-386b6d42197c@f497.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250618
 DESCRIPTION:Company : ENIGMATIG LTD\nExchange: NYSE MKT\nShares  : 3 M\nPrice   : $5.00\nSource  : Finnhub IPO Calendar
 LOCATION:NYSE MKT
 SUMMARY:IPO: EGG
-UID:cac3587e-b965-4447-bc20-8ae26ad417f4@cac3.org
+UID:a618292b-2ace-4d7e-aadb-a7b21813c25f@a618.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250618
+DESCRIPTION:Company : Caris Life Sciences\, Inc.\nExchange: NASDAQ Global Select\nShares  : 24 M\nPrice   : $21.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global Select
+SUMMARY:IPO: CAI
+UID:ca1d78d6-5f28-4266-9dee-7c2591a2fb9b@ca1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250625
+DESCRIPTION:Company : Kandal M Venture Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: FMFC
+UID:b00fe75c-70c8-4fdb-82f5-9be03eee0e68@b00f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250626
+DESCRIPTION:Company : Cantor Equity Partners III\, Inc.\nExchange: NASDAQ Global\nShares  : 24 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: CAEP
+UID:452eda2f-cf15-42c9-99c4-a53b49b5222d@452e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250616
+DESCRIPTION:Company : RPM Interactive\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: RPMI
+UID:edb09432-5b04-44ce-8268-8a2322acc32a@edb0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250624
 DESCRIPTION:Company : Happy City Holdings Ltd\nExchange: NASDAQ Capital\nShares  : 1 M\nPrice   : $5.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Capital
 SUMMARY:IPO: HCHL
-UID:11147fc7-d847-40b1-9fac-661ed4f8eac5@1114.org
+UID:a37c0c66-d7b9-4a9b-88c1-9044af0a69b5@a37c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250626
+DESCRIPTION:Company : CARLSMED\, INC.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CARL
+UID:576d5ce6-5686-4552-a318-da9647218d7b@576d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250616
-DESCRIPTION:Company : Solarius Capital Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: SOCAU
-UID:e05cff8a-b7db-4a19-8545-b258c87c64c4@e05c.org
+DESCRIPTION:Company : Kilcoy Global Foods\, Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: KGF
+UID:2fcdb0ee-5fed-470a-8a96-b9b17f812ee3@2fcd.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250616
-DESCRIPTION:Company : RPM Interactive\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: RPMI
-UID:954ead98-f5b5-4ed0-8b18-b1a4e89e9320@954e.org
+DTSTART;VALUE=DATE:20250626
+DESCRIPTION:Company : Jefferson Capital\, Inc. / DE\nExchange: NASDAQ Global Select\nShares  : 10 M\nPrice   : $15.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global Select
+SUMMARY:IPO: JCAP
+UID:8bfd1d13-f432-4712-9d86-ea8bc2e1dc34@8bfd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250626
+DESCRIPTION:Company : Blueport Acquisition Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: BPAC
+UID:c526613b-fdc1-4cdc-a7d1-b0e150e45b32@c526.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250618
+DESCRIPTION:Company : Fuxing China Group Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : 4.00-6.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: FFFZ
+UID:865960b7-33ea-4535-bab5-0f55734d0157@8659.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250620
+DESCRIPTION:Company : Neuro Spectrum Insights\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:6ff6cdac-f1d4-44e9-9480-a2242e6bd495@6ff6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:Company : CapsoVision\, Inc\nExchange: NASDAQ Capital\nShares  : 5 M\nPrice   : 5.00-5.50\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: CV
+UID:979ed17e-5d7f-48a2-bdb5-72215d36069e@979e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250617
+DESCRIPTION:Company : Jyong Biotech Ltd.\nExchange: NASDAQ Global\nShares  : 3 M\nPrice   : $7.50\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: MENS
+UID:622e0dfc-1a8c-4128-b372-729111e6c434@622e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250625
+DESCRIPTION:Company : LightWave Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 19 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: LWACU
+UID:0561dff0-91b7-4129-a21b-3b1019a2e430@0561.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250618
+DESCRIPTION:Company : Slide Insurance Holdings\, Inc.\nExchange: NASDAQ Global Select\nShares  : 24 M\nPrice   : $17.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global Select
+SUMMARY:IPO: SLDE
+UID:9fd8f37b-fed6-4d47-86b8-37fb4d35951f@9fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250624
+DESCRIPTION:Company : E I L Holdings Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:2b2cb26c-30ab-4000-8608-aa9349c21ea8@2b2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250626
+DESCRIPTION:Company : Julong Holding Ltd\nExchange: NASDAQ Capital\nShares  : 1 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: JLHL
+UID:ec37a059-9fec-4136-82c4-f389174826bf@ec37.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250624
+DESCRIPTION:Company : Spirits Capital Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:aa59b98a-03bd-42a0-a6aa-1fd3c080bec8@aa59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250617
+DESCRIPTION:Company : Camerry New Material Tech Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CNMT
+UID:a1a11c94-bdb9-4db8-b567-90e29c6e163c@a1a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250627
+DESCRIPTION:Company : Yorkville Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 15 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: YORKU
+UID:024c49d2-1ffc-45b9-b338-50d0f8f08737@024c.org
 END:VEVENT
 END:VCALENDAR
