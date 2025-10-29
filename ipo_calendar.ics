@@ -2,325 +2,346 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251015
-DESCRIPTION:Company : GalaxyEdge Acquisition Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: GLEDU
-UID:dd4da794-461c-4bdc-9508-05d7ca2306f0@dd4d.org
+DTSTART;VALUE=DATE:20251106
+DESCRIPTION:Company : Grupo Aeromexico\, S.A.B. de C.V.\nExchange: NYSE\nShares  : 12 M\nPrice   : 18.00-20.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE
+SUMMARY:IPO: AERO
+UID:1517e416-f5ce-41ce-91b2-550e691c3b4e@1517.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251014
+DESCRIPTION:Company : General Purpose Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: GPACU
+UID:44263f58-eb10-40a1-a44c-1776e2d5af59@4426.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251015
 DESCRIPTION:Company : Smart Logistics Global Ltd\nExchange: NASDAQ Capital\nShares  : 1 M\nPrice   : $5.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Capital
 SUMMARY:IPO: SLGB
-UID:fbd06371-0dae-47bd-b51e-385598752771@fbd0.org
+UID:42ec1965-597f-49bc-b990-4734cabb7db1@42ec.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251017
-DESCRIPTION:Company : Acco Group Holdings Ltd\nExchange: NASDAQ Capital\nShares  : 1 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
+DTSTART;VALUE=DATE:20251118
+DESCRIPTION:Company : HW Electro Co.\, Ltd.\nExchange: NASDAQ Capital\nShares  : 4 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Capital
-SUMMARY:IPO: ACCL
-UID:a51869f8-206b-461e-98c9-a4b02909dbef@a518.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251104
-DESCRIPTION:Company : BETA Technologies\, Inc.\nExchange: NYSE\nShares  : 25 M\nPrice   : 27.00-33.00\nSource  : Finnhub IPO Calendar
-LOCATION:NYSE
-SUMMARY:IPO: BETA
-UID:c35d3279-06f8-49d9-a6a8-0796b7e122b2@c35d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-DESCRIPTION:Company : Aptera Motors Corp\nExchange: NASDAQ Capital\nShares  : 32 M\nPrice   : -\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: SEV
-UID:783621e5-3717-4e1d-993f-5957e116c88d@7836.org
+SUMMARY:IPO: HWEP
+UID:895ef5db-56d2-496c-a0af-99d66c344214@895e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
 DESCRIPTION:Company : Miluna Acquisition Corp\nExchange: NASDAQ Global\nShares  : 6 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: MMTXU
-UID:4d5fe8b1-3ec0-4d71-8574-56f237749b53@4d5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251106
-DESCRIPTION:Company : BillionToOne\, Inc.\nExchange: NASDAQ Global Select\nShares  : 4 M\nPrice   : 49.00-55.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global Select
-SUMMARY:IPO: BLLN
-UID:34491fd3-9143-4c69-aad8-84c64ee94894@3449.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Company : Duke Holding Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: DUKL
-UID:0720dcf5-b308-4f2b-b611-0f43e9914613@0720.org
+UID:4479fba7-9499-42b9-8ad3-7b51bc172fc4@4479.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251015
-DESCRIPTION:Company : FG Imperii Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: FGIIU
-UID:f5708c75-8ae6-4f03-a826-eb2bc4e7a267@f570.org
+DESCRIPTION:Company : GalaxyEdge Acquisition Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: GLEDU
+UID:ad8f451c-4b7a-4d09-a058-33491b5e148c@ad8f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251024
 DESCRIPTION:Company : LaFayette Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: LAFAU
-UID:fde18ce2-106a-42b7-bc81-1a860f7ecae6@fde1.org
+UID:71107367-9089-4cc4-8483-b4d888bb6476@7110.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251017
-DESCRIPTION:Company : Aeon Acquisition I Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: AESPU
-UID:ef6bc5a0-003d-4381-ab0a-92f3beb62543@ef6b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251015
-DESCRIPTION:Company : Bleichroeder Acquisition Corp. II\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: BBCQU
-UID:6037f220-40d5-4bb9-b62a-d6eb8733a751@6037.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251023
-DESCRIPTION:Company : CGL Logistics Holdings Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: CGL
-UID:74c1b2c3-c655-4036-aedb-a600c0a1ad8b@74c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-DESCRIPTION:Company : Civil Infrastructure Group Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: CDNL
-UID:6cb1d677-3381-4725-8e4a-fc53e0f703e0@6cb1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Company : Space Asset Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: SAAQU
-UID:ea1bac3e-9ca2-4472-b3a3-a56e2e6fe1d3@ea1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251021
-DESCRIPTION:Company : BGIN BLOCKCHAIN Ltd\nExchange: NASDAQ Global\nShares  : 5 M\nPrice   : $6.00\nSource  : Finnhub IPO Calendar
+DTSTART;VALUE=DATE:20251028
+DESCRIPTION:Company : Apex Treasury Corp\nExchange: NASDAQ Global\nShares  : 30 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
-SUMMARY:IPO: BGIN
-UID:3f1e599c-557b-4301-bd3f-14f7825be42f@3f1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251020
-DESCRIPTION:Company : DeepGreenX Group Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:c379981f-e5f7-4b72-8d95-a5f91423c061@c379.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DESCRIPTION:Company : Grupo Aeromexico\, S.A.B. de C.V.\nExchange: NYSE\nShares  : 12 M\nPrice   : 18.00-20.00\nSource  : Finnhub IPO Calendar
-LOCATION:NYSE
-SUMMARY:IPO: AERO
-UID:e81ea599-f29f-4783-92ab-a9a80feb3d89@e81e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-DESCRIPTION:Company : Republic Power Group Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: RPGL
-UID:3398f0f9-7a8f-4c31-bf0b-09b5793470ac@3398.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251022
-DESCRIPTION:Company : Horizon Thread (PTY) Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: OLIF
-UID:ba86de2f-d3cb-4546-8aa7-d116054a5aa2@ba86.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DESCRIPTION:Company : Evommune\, Inc.\nExchange: NYSE\nShares  : 9 M\nPrice   : 15.00-17.00\nSource  : Finnhub IPO Calendar
-LOCATION:NYSE
-SUMMARY:IPO: EVMN
-UID:2c316196-2111-4210-b7c8-63a77e68c5ba@2c31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251023
-DESCRIPTION:Company : ELC Group Holdings Ltd.\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : 4.00-6.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: ELCG
-UID:8a41b8a0-9658-47b5-bcac-3745a08e4e6f@8a41.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251017
-DESCRIPTION:Company : Gloo Holdings\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: GLOO
-UID:93567e74-d513-49ba-9370-8dd0a02a5723@9356.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251027
-DESCRIPTION:Company : MapLight Therapeutics\, Inc.\nExchange: NASDAQ Global\nShares  : 15 M\nPrice   : $17.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: MPLT
-UID:8a0b37e8-1243-460a-bc3b-b43c6970ec37@8a0b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251022
-DESCRIPTION:Company : Idea Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: IACOU
-UID:bef2e8e6-e4cc-422d-9c04-2c4cc1fbc8c5@bef2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251022
-DESCRIPTION:Company : Armada Acquisition Corp. III\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:b32286a8-b47e-42a6-94ea-2d6c574002fc@b322.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Company : AIGO HOLDING Ltd\nExchange: NASDAQ Global\nShares  : 2 M\nPrice   : 4.00-6.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: AIGO
-UID:fa6c2897-9d3c-4d5b-b938-ab9df8e2c6f0@fa6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251022
-DESCRIPTION:Company : Texxon Holding Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $5.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: NPT
-UID:4a3326ee-31c6-490a-806e-0cbcb59aa892@4a33.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251021
-DESCRIPTION:Company : Charming Medical Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: MCTA
-UID:7d3aa167-97ba-40c8-878e-550a7c198409@7d3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251104
-DESCRIPTION:Company : Functional Brands Inc.\nExchange: NASDAQ Capital\nShares  : 18 M\nPrice   : -\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: MEHA
-UID:ca0ff984-6373-4f02-ac51-b45d8c8231ac@ca0f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251021
-DESCRIPTION:Company : AMBITIONS ENTERPRISE MANAGEMENT CO. L.L.C\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: AHMA
-UID:9d014821-32b1-4215-be08-fa223675697f@9d01.org
+SUMMARY:IPO: APXTU
+UID:fb672f8d-9dff-476c-847c-36e793f760c5@fb67.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
 DESCRIPTION:Company : Harvard Ave Acquisition Corp\nExchange: NASDAQ Global\nShares  : 14 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: HAVAU
-UID:86c33e58-0e2b-4ca0-835d-b47cad14c19f@86c3.org
+UID:44e0be0a-fd18-45fe-bf7b-a5ad8c5b142d@44e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251020
+DESCRIPTION:Company : DeepGreenX Group Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:faac8c0f-2baf-48e6-b24b-9d0e6be532a1@faac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251106
+DESCRIPTION:Company : BillionToOne\, Inc.\nExchange: NASDAQ Global Select\nShares  : 4 M\nPrice   : 49.00-55.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global Select
+SUMMARY:IPO: BLLN
+UID:065cb944-65b0-4aef-804b-d6ef858d04dc@065c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Company : pan-Africa Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: BLEUU
+UID:ae660723-e303-4d50-b2da-13dd0e1f81ef@ae66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:Company : Idea Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: IACOU
+UID:448f934f-5dae-4079-af10-1691c403f8aa@448f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+DESCRIPTION:Company : Bleichroeder Acquisition Corp. II\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: BBCQU
+UID:27c924a0-b3de-44f5-aa7a-e4f9801538d3@27c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:Company : Evommune\, Inc.\nExchange: NYSE\nShares  : 9 M\nPrice   : 15.00-17.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE
+SUMMARY:IPO: EVMN
+UID:4b753352-d55f-49f3-8380-b8b31773f052@4b75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251105
+DESCRIPTION:Company : Exzeo Group\, Inc.\nExchange: NYSE\nShares  : 8 M\nPrice   : 20.00-22.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE
+SUMMARY:IPO: XZO
+UID:bf41aa47-1190-48f9-84bf-dd90ac804eae@bf41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+DESCRIPTION:Company : Insight Digital Partners II\nExchange: NASDAQ Global\nShares  : 15 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: DYORU
+UID:2152f678-e05d-4cae-a142-e3b08ba7b7c1@2152.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Company : Brava Acquisition Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: BRVAU
+UID:eb269c28-1417-4d94-8d63-0d738a093179@eb26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Company : ELC Group Holdings Ltd.\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : 4.00-6.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: ELCG
+UID:797d2a17-92af-4af1-99c7-04968729b767@797d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 DESCRIPTION:Company : OBOOK HOLDINGS INC.\nExchange: NASDAQ Global\nShares  : 5 M\nPrice   : -\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: OWLS
-UID:a42f543a-f8b2-49d4-b22e-2c2e0aeb1bc5@a42f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-DESCRIPTION:Company : HW Electro Co.\, Ltd.\nExchange: NASDAQ Capital\nShares  : 4 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: HWEP
-UID:4799e467-7d50-4ada-98bf-1508755295c6@4799.org
+UID:d1515956-7d9d-4441-ab17-cc6a581fe93a@d151.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251022
-DESCRIPTION:Company : Calisa Acquisition Corp\nExchange: NASDAQ Global\nShares  : 6 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: ALISU
-UID:f6313b60-15a6-4a64-bba8-5d631eb1478c@f631.org
+DESCRIPTION:Company : Armada Acquisition Corp. III\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:45729f13-1ea7-46e4-9932-f9d676c100f1@4572.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251017
-DESCRIPTION:Company : Colombier Acquisition Corp. III\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: CLBRU
-UID:931432e5-3d99-4cfc-b5e3-294ad1a04529@9314.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-DESCRIPTION:Company : SC II Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: SCIIU
-UID:21637b2a-1067-49fb-8dbc-ca0a489476a5@2163.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251022
-DESCRIPTION:Company : Agencia Comercial Spirits Ltd.\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: AGCC
-UID:22421a50-6742-4d7f-91e0-dd0a263a4fc9@2242.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Company : pan-Africa Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: BLEUU
-UID:084425c2-ec71-4d3c-8fdd-1ea71a30962d@0844.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-DESCRIPTION:Company : General Purpose Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: GPACU
-UID:93beb0ad-a493-4154-8b14-7ac3a15c2909@93be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Company : Brava Acquisition Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: BRVAU
-UID:11934243-40ac-4023-9714-10a163648a5e@1193.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251017
-DESCRIPTION:Company : RF Acquisition Corp III\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: RFAMU
-UID:917927cc-dadb-4fe5-bebc-4546a331099c@9179.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251015
-DESCRIPTION:Company : TechCreate Group Ltd.\nExchange: NYSE MKT\nShares  : 3 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
-LOCATION:NYSE MKT
-SUMMARY:IPO: TCGL
-UID:c246363b-8cfc-480b-9b5a-88090b46ba17@c246.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-DESCRIPTION:Company : Navan\, Inc.\nExchange: NASDAQ Global Select\nShares  : 37 M\nPrice   : 24.00-26.00\nSource  : Finnhub IPO Calendar
+DTSTART;VALUE=DATE:20251027
+DESCRIPTION:Company : MapLight Therapeutics\, Inc.\nExchange: NASDAQ Global Select\nShares  : 15 M\nPrice   : $17.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global Select
-SUMMARY:IPO: NAVN
-UID:2018797d-e892-4c68-aedc-0c9726853191@2018.org
+SUMMARY:IPO: MPLT
+UID:9d699e2e-8cf3-4190-bd18-a18bea431db2@9d69.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-DESCRIPTION:Company : White Pearl Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: WPACU
-UID:7ea01c9c-946c-416f-842d-411cd7a7758e@7ea0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251110
-DESCRIPTION:Company : WeShop Holdings Ltd\nExchange: NASDAQ Capital\nShares  : 4 M\nPrice   : -\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: WSHP
-UID:28ee401a-40f2-44d9-b971-c12ee08ac7c0@28ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Company : Gigabit Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: GBH
-UID:4a311f7c-18d8-4d3e-afab-3e6154f900c0@4a31.org
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:Company : Aeon Acquisition I Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: AESPU
+UID:790bf966-f3b8-4cf9-aa1c-4cf06d4fc83b@790b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
 DESCRIPTION:Company : Nomadar Corp.\nExchange: NASDAQ Capital\nShares  : 13 M\nPrice   : -\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Capital
 SUMMARY:IPO: NOMA
-UID:e90a2444-b564-4206-ae9e-89591d2f9471@e90a.org
+UID:d75921f5-8f1b-45bd-8665-881e6474076f@d759.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
+DTSTART;VALUE=DATE:20251014
+DESCRIPTION:Company : Republic Power Group Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: RPGL
+UID:571cacad-c57f-4861-9bb6-1c1e6c046547@571c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251104
+DESCRIPTION:Company : Functional Brands Inc.\nExchange: NASDAQ Capital\nShares  : 18 M\nPrice   : -\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: MEHA
+UID:2fec2d74-8afa-4205-af0c-b104c196e417@2fec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
 DESCRIPTION:Company : DT House Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : 4.00-5.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Capital
 SUMMARY:IPO: DTDT
-UID:ea241eb7-319f-4b6d-8a55-42af4b4bc8bc@ea24.org
+UID:8231783e-60d1-46ff-9bc7-c68f0d9fdcd7@8231.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:Company : Calisa Acquisition Corp\nExchange: NASDAQ Global\nShares  : 6 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: ALISU
+UID:b05856f8-ac7f-43fb-bc0f-bac50d175319@b058.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+DESCRIPTION:Company : WeShop Holdings Ltd\nExchange: NASDAQ Capital\nShares  : 4 M\nPrice   : -\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: WSHP
+UID:bb49eefd-ebb7-4652-8d2b-5cdf2e201ce4@bb49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Company : Space Asset Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: SAAQU
+UID:6ec76280-6aa7-430c-aa7a-871689c933c1@6ec7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:Company : Acco Group Holdings Ltd\nExchange: NASDAQ Capital\nShares  : 1 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: ACCL
+UID:c6176186-25cc-4798-956b-f1742b69b979@c617.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251030
+DESCRIPTION:Company : Navan\, Inc.\nExchange: NASDAQ Global Select\nShares  : 37 M\nPrice   : 24.00-26.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global Select
+SUMMARY:IPO: NAVN
+UID:e8939d02-66d1-427d-a5b1-c9e984f3ca68@e893.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:Company : SC II Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: SCIIU
+UID:7270c233-f138-4d2f-af5d-6f0391d8e759@7270.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Company : CGL Logistics Holdings Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CGL
+UID:787674fe-8bea-496d-a8d7-93fb3a01cee9@7876.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:Company : RF Acquisition Corp III\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: RFAMU
+UID:75916d0a-527a-4c53-9bed-51c0a5b208fb@7591.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251014
+DESCRIPTION:Company : Civil Infrastructure Group Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CDNL
+UID:f2789773-b129-4430-b5d2-227fd8b0e24b@f278.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:Company : White Pearl Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: WPACU
+UID:ebdca892-9bd3-4ba1-b9df-8bfef7a664bb@ebdc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Company : Gigabit Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: GBH
+UID:cc794e37-0aa9-485a-b34a-2ed7af619193@cc79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:Company : Agencia Comercial Spirits Ltd.\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: AGCC
+UID:0fa7053b-5386-485b-a9d1-e715dd9906b7@0fa7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+DESCRIPTION:Company : TechCreate Group Ltd.\nExchange: NYSE MKT\nShares  : 3 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE MKT
+SUMMARY:IPO: TCGL
+UID:27585511-1f11-43cd-8839-cebbd1ba88d5@2758.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:Company : AMBITIONS ENTERPRISE MANAGEMENT CO. L.L.C\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: AHMA
+UID:0329566f-0750-45d9-93b2-502dc149de61@0329.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:Company : BGIN BLOCKCHAIN Ltd\nExchange: NASDAQ Global\nShares  : 5 M\nPrice   : $6.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: BGIN
+UID:0f8bd7db-63ed-4bd5-9731-dec76cc90ccf@0f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:Company : Charming Medical Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $4.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: MCTA
+UID:5645709a-cd01-44d4-8280-ba1c67dc57ae@5645.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Company : Duke Holding Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: DUKL
+UID:b53f0ea1-050b-4880-b6f8-d38b918625cc@b53f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251104
+DESCRIPTION:Company : BETA Technologies\, Inc.\nExchange: NYSE\nShares  : 25 M\nPrice   : 27.00-33.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE
+SUMMARY:IPO: BETA
+UID:8524989a-9564-4a0b-9cdc-e85a53b07095@8524.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:Company : Texxon Holding Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : $5.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: NPT
+UID:dfcc0134-7f08-49b3-9f69-3f3f6f3b175c@dfcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:Company : Horizon Thread (PTY) Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: OLIF
+UID:1ecdf831-bc77-4b4e-af1d-0dae47bbddf4@1ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+DESCRIPTION:Company : FG Imperii Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: FGIIU
+UID:614835ef-86ae-4039-aa79-f936adaf9af5@6148.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Company : AIGO HOLDING Ltd\nExchange: NASDAQ Global\nShares  : 2 M\nPrice   : 4.00-6.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: AIGO
+UID:b480f587-396b-4c60-b833-4ae85ed91a0f@b480.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:Company : Gloo Holdings\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: GLOO
+UID:d128755b-2116-49e7-8517-942e67c518a7@d128.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:Company : Aptera Motors Corp\nExchange: NASDAQ Capital\nShares  : 32 M\nPrice   : -\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: SEV
+UID:2561f761-3db3-4c63-9b9d-0ac083f628d5@2561.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:Company : Colombier Acquisition Corp. III\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CLBRU
+UID:bad89dc0-908b-4b4b-9a7c-861a0f102477@bad8.org
 END:VEVENT
 END:VCALENDAR
