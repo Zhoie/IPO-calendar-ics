@@ -2,115 +2,149 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+DESCRIPTION:Company : Art Technology Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 22 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: ARTCU
+UID:88879f28-bb32-4189-92a7-d520394189d4@8887.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Company : AIGO HOLDING Ltd\nExchange: NASDAQ Global\nShares  : 2 M\nPrice   : 4.00-6.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: AIGO
+UID:0f598429-62d6-4780-8ae6-ad6b4855df52@0f59.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251229
 DESCRIPTION:Company : White Knights Alliance Capital Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: 
-UID:d1a2b741-456a-4d63-964a-a459de727706@d1a2.org
+UID:cbfbbac1-4b68-4fd6-a2e0-520b621de693@cbfb.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251230
 DESCRIPTION:Company : Optimal AI Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: 
-UID:10789aa7-db17-4636-955f-384fb30806e1@1078.org
+UID:a99798db-2581-401d-9265-5845ab48c982@a997.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251230
+DESCRIPTION:Company : Virtuix Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: VTIX
+UID:64d2720c-58a0-4b24-9380-ebfa4b61aedf@64d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:Company : Little West Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: LILW
+UID:783df1a2-5f36-45a5-b606-dbbef5875337@783d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260106
 DESCRIPTION:Company : Black Spade Acquisition III Co\nExchange: NYSE\nShares  : 15 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NYSE
 SUMMARY:IPO: BIIIU
-UID:3434b7d5-1245-493f-ac11-d38d9b3f25ed@3434.org
+UID:892f1ce1-3219-4c40-af1d-0c84c4961214@892f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:Company : BW Industrial Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: BWGC
-UID:93be6e72-2ca4-44a0-b897-71d985b2a010@93be.org
+DTSTART;VALUE=DATE:20260106
+DESCRIPTION:Company : Altech Digital Co.\, Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:7dada8e8-36af-4af3-bf58-9fed7d2ec630@7dad.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:Company : QumulusAI\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: QMLS
-UID:a9fce8f0-8311-4404-bb1c-d799ed18782c@a9fc.org
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Company : RIKU DINING GROUP Ltd\nExchange: NASDAQ Capital\nShares  : 2 M\nPrice   : 4.00-6.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: RIKU
+UID:0a26e8bf-011d-44b2-9a2d-647ce0e03efb@0a26.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260107
 DESCRIPTION:Company : Soren Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 22 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: SORNU
-UID:0fd808d1-96d4-4902-bad9-1c918590cfa6@0fd8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:Company : BAO Holding Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:d13a7275-c6e6-448d-a44c-c814fa3681d2@d13a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251230
-DESCRIPTION:Company : I Bella Perfect Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: IBL
-UID:f7031a88-52bb-4cdd-b444-6c8494e64f7f@f703.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251229
-DESCRIPTION:Company : Riverstone Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: DNJF
-UID:7daac6bc-76e7-4ffe-81a8-cbcebc916b78@7daa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260106
-DESCRIPTION:Company : Art Technology Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 22 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: ARTCU
-UID:6bccadc4-f0df-4022-8869-811e2763a640@6bcc.org
+UID:57d188d9-47c1-4ecc-ae38-59e918f4223c@57d1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251229
 DESCRIPTION:Company : Abony Acquisition Corp. I\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: AACOU
-UID:08ea99a7-1c50-4eaf-8ab0-c4ad53ef8452@08ea.org
+UID:db783dec-163e-43b2-8eb3-405913ad2e25@db78.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260109
+DESCRIPTION:Company : Lafayette Digital Acquisition Corp. I\nExchange: NASDAQ Global\nShares  : 25 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: ZKPU
+UID:abdf335a-1908-4004-99f2-7f9452449d99@abdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251229
+DESCRIPTION:Company : Riverstone Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: DNJF
+UID:8bdac0cb-ccb8-44b3-b4d6-699dfeccc774@8bda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:Company : QumulusAI\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: QMLS
+UID:260dc7cd-051e-4b33-b12d-30234595309e@260d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:Company : BW Industrial Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: BWGC
+UID:94b1d604-377b-45a1-a685-7103c9c09651@94b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251230
+DESCRIPTION:Company : I Bella Perfect Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: IBL
+UID:f9c17d38-77d4-4879-94a9-9894d103bc80@f9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260108
+DESCRIPTION:Company : Cantor Equity Partners VI\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CEPS
+UID:0e8325ec-1a01-47ba-8da2-b972545cab38@0e83.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260107
 DESCRIPTION:Company : Willow Lane Acquisition Corp. II\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: WLIIU
-UID:146cd8a6-899f-487e-b230-00fba2b0311f@146c.org
+UID:89b7ebd6-cec1-4906-a253-9f427fa130d4@89b7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260105
-DESCRIPTION:Company : Picpay Holdings Netherlands B.V.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: PICS
-UID:2c25f151-fdf3-45f6-aeea-f50902d29cf8@2c25.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251229
-DESCRIPTION:Company : Cafe Deco Group Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:239bd1cc-a058-4d08-8cef-ba9d36b18e2c@239b.org
+DTSTART;VALUE=DATE:20260108
+DESCRIPTION:Company : BUDA JUICE\, INC.\nExchange: NYSE MKT\nShares  : 3 M\nPrice   : $7.50\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE MKT
+SUMMARY:IPO: BUDA
+UID:1a42aa20-fe11-459c-9788-c35572467bfc@1a42.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
-DESCRIPTION:Company : Little West Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: LILW
-UID:3595f1d5-519e-408d-b648-d44efd667ddc@3595.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260106
-DESCRIPTION:Company : Altech Digital Co.\, Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+DESCRIPTION:Company : BAO Holding Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: None
-UID:ee56d484-74b3-4460-b792-b66cd2d88619@ee56.org
+UID:32362283-b8c1-468f-bff1-bc9c1788fcf1@3236.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260108
 DESCRIPTION:Company : Bleichroeder Acquisition Corp. II\nExchange: NASDAQ Global\nShares  : 25 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: BBCQU
-UID:f4edeb50-66ea-4e7e-8253-b721b11a3520@f4ed.org
+UID:84db31ca-f9c3-4716-b1d1-8bfe6b8930a2@84db.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251230
-DESCRIPTION:Company : Virtuix Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: VTIX
-UID:184731b9-e5a2-49b7-8e83-9c5fca22388f@1847.org
+DTSTART;VALUE=DATE:20251229
+DESCRIPTION:Company : Cafe Deco Group Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:00ee7f9f-5654-4399-bead-a1f7aea97a1c@00ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+DESCRIPTION:Company : Picpay Holdings Netherlands B.V.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: PICS
+UID:e03e62bc-6420-4653-9b06-e343b9c0c8b1@e03e.org
 END:VEVENT
 END:VCALENDAR
