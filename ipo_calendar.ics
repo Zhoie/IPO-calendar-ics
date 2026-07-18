@@ -2,289 +2,241 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Company : Dear Industrial Gas Inc\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: KFDE
-UID:2b4619f5-d487-40cd-a0f5-bdf69f8c49c8@2b46.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Company : Tailored Brands\, Inc. / DE\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: MENW
-UID:6d6f33ca-1dcc-4587-b212-0425c4f7e6c2@6d6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Company : East West Ave Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: EWAVU
-UID:e5df032e-5542-46d5-8108-b7447ce14931@e5df.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DESCRIPTION:Company : Market Technology Acquisition Corp\nExchange: NASDAQ Global\nShares  : 20 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: MTAKU
-UID:7b3c9771-cab8-460c-b149-aa85d77fd19a@7b3c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Company : Chilwa Minerals Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: CHWM
-UID:963cdb3a-b47f-4f23-a8d2-3aba3c650e47@963c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Company : Braveheart Bio\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: BRVE
-UID:eb48caee-0de1-4d84-8f4c-d6cf38466773@eb48.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Company : APEX Global Solutions Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:400f834e-b5ce-43b2-a3ab-4f89a61086df@400f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Company : Vogenx\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: VOGX
-UID:2ff11648-12f0-43e7-a0f7-d53a934dc600@2ff1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260713
-DESCRIPTION:Company : Material Resource Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: MTRLU
-UID:1b6db156-7f0d-402c-929b-3893f3a5266e@1b6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Company : Timwood Holdings Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: TIWD
-UID:b635b6af-6261-4166-b185-ab5ead3c6008@b635.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Company : Sin Lian Seng Construction\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: ININ
-UID:87c0367a-4d5f-4894-8b15-90ef847c7649@87c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260708
-DESCRIPTION:Company : INFINT Acquisition Corp 2\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:cff2fa28-ffc2-4d4a-97e7-05334be8cbf2@cff2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Company : Meridian3 Industrials Acquisition Corp\nExchange: NASDAQ Global\nShares  : 18 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: MIACU
-UID:fba4b749-1d4b-47ed-8a95-b5fbef11ab05@fba4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DESCRIPTION:Company : Southern Cross Acquisition I Corp.\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: NCOU
-UID:de758d6b-e6b8-41fc-b317-79e40adb9a07@de75.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260707
-DESCRIPTION:Company : Bleichroeder Acquisition Corp. III\nExchange: NASDAQ Global\nShares  : 30 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: BCCQU
-UID:b9c62870-67ba-4098-ba7c-23e2deb3e52d@b9c6.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:Company : QumulusAI\, Inc.\nExchange: NASDAQ Global\nShares  : 39 M\nPrice   : -\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: QMLS
-UID:e8b472cf-cf94-49e8-b320-2fb1036121d1@e8b4.org
+UID:5e78f50b-40cd-4ba5-9b7a-11e426c052fb@5e78.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Company : Churchill Capital Corp XIII\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: XIIIU
-UID:c0e94818-8985-4f84-881b-90280a872a49@c0e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260713
-DESCRIPTION:Company : YPF Energia Electrica S.A.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: YLUZ
-UID:dbcb3896-49de-4ef3-8844-51c4fc95e9aa@dbcb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Company : Viking Acquisition Corp. II\nExchange: NYSE\nShares  : 20 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NYSE
-SUMMARY:IPO: VIIU
-UID:040c79cf-8a62-4b12-93d2-c387a9d60d11@040c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Company : Jersey Mike's Subs Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: JMKE
-UID:8e5a20de-dcc0-4af0-a959-c7457693c16f@8e5a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260708
-DESCRIPTION:Company : Cloud Data Holdings Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:9508056c-6f38-4e75-bbb4-1ec94ca36700@9508.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Company : Scribe Therapeutics\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: SCTX
-UID:da769a0b-280c-4d19-9f4c-f29279c80ef2@da76.org
+DTSTART;VALUE=DATE:20260714
+DESCRIPTION:Company : Attovia Therapeutics\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: ATTO
+UID:20dfc991-05a9-40c8-a741-26e23c8d6b62@20df.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:Company : Jones Ventures INTL Acquisition1 Corp\nExchange: NASDAQ Global\nShares  : 20 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: JONEU
-UID:28b6f325-ba71-4895-8703-8f912e48c2d3@28b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Company : Samos Energy Acquisition Corp\nExchange: NYSE\nShares  : 20 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NYSE
-SUMMARY:IPO: SAMOU
-UID:08077438-9f1b-4597-bd86-1bea03566181@0807.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Company : Laris Growth Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: LARSU
-UID:99b1db00-4f16-435d-892a-58fbd90472e1@99b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Company : Cumberland Farms Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: CMBY
-UID:60bafa16-5232-4ec3-b338-6bca434326bd@60ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Company : B&R Technology Merger Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: BRTMU
-UID:d0363a22-fcb6-43a1-b658-ca7d2c3d2cd0@d036.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Company : Holtec Nuclear Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: HNUC
-UID:24e5b88b-3a3b-4d1b-9efb-fa57aa0121ae@24e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260706
-DESCRIPTION:Company : Syntiant Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: SYTN
-UID:c22a5847-3276-4d46-8a5c-2288e5139ec0@c22a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260708
-DESCRIPTION:Company : Freedom Metals Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 28 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: FDMMU
-UID:2e630ffc-335c-4f28-8a72-bd44183b2b5d@2e63.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260714
-DESCRIPTION:Company : Attovia Therapeutics\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: ATTO
-UID:28f6fb7c-d0aa-4731-aee4-c204ed95e670@28f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Company : Genneia S.A.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: GENN
-UID:636cc6bc-5b33-4f49-8d7a-dec38a01bb2f@636c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260706
-DESCRIPTION:Company : RanMarine Technology B.V.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:18fc0a61-85a0-4df0-af76-1818f72b4b3a@18fc.org
+UID:bcd24974-8c02-4f08-b828-9d2fa71ea1ed@bcd2.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260716
-DESCRIPTION:Company : MetaOptics Ltd\nExchange: NASDAQ Capital\nShares  : 3 M\nPrice   : 5.00-7.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: MOT
-UID:48755600-ad85-4cab-9c1b-10975382f512@4875.org
+DESCRIPTION:Company : Phalanx Acquisition Corp I\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: PHAXU
+UID:5b7b9961-e78e-4cdf-9ccb-d4ac5f5641fc@5b7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:Company : East West Ave Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: EWAVU
+UID:8c23ca30-2f8a-4eca-8f22-b3972aeeb1d3@8c23.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260707
+DESCRIPTION:Company : Bleichroeder Acquisition Corp. III\nExchange: NASDAQ Global\nShares  : 30 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: BCCQU
+UID:8024ea08-8694-4348-a051-4ecfcbe627c5@8024.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Company : Tailored Brands\, Inc. / DE\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: MENW
+UID:8ae05f4e-418a-4068-8694-4c2f82c18e4c@8ae0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Company : Blue-Touch Holdings Group Co.\, Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: None
-UID:d62614e5-6a1b-408c-b61b-7b14b0bf7954@d626.org
+UID:7f83f488-31fe-4ed2-aec9-2eb1da5cd771@7f83.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Company : Tarsier Pharma Ltd.\nExchange: NYSE\nShares  : 5 M\nPrice   : 8.00-10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NYSE
-SUMMARY:IPO: TARX
-UID:d43e0904-323f-4681-8f09-62f7cddbbc49@d43e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260708
-DESCRIPTION:Company : Catalyst Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: CATLU
-UID:a93c0d97-147d-4c7c-ada9-1bec1a92c268@a93c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Company : Columbus Circle Capital Corp III\nExchange: NASDAQ Global\nShares  : 20 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+DTSTART;VALUE=DATE:20260717
+DESCRIPTION:Company : AMR Resources Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 25 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
-SUMMARY:IPO: CCCTU
-UID:759577ed-2277-481e-9f09-6ab6f0786af0@7595.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Company : Southern Cross Acquisition II Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: SCATU
-UID:401f429c-93d9-442d-99d5-e419af5ddfbc@401f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Company : Mercator Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 15 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: MRCOU
-UID:1f8fbe83-27d5-476a-8971-a0b06e36c2b6@1f8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260713
-DESCRIPTION:Company : Research Alliance Corp IV\nExchange: NASDAQ Capital\nShares  : 8 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: RACD
-UID:72dcdb56-16e6-4fc4-9a20-a06f3b3a0d5b@72dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Company : Londian Wason New Energy Tech Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: FOIL
-UID:47fb93e1-a4b7-4b53-a76c-116121f0285b@47fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Company : Apnimed\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: APMD
-UID:82998cb1-3ddb-44b5-9288-8649a8fd09d0@8299.org
+SUMMARY:IPO: AMACU
+UID:0f093a03-42a0-4eeb-a37f-e70772b1f3cb@0f09.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Company : SK hynix Inc.\nExchange: NASDAQ Global Select\nShares  : 178 M\nPrice   : $149.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global Select
 SUMMARY:IPO: SKHY
-UID:eac8053e-0c14-4fec-b35d-b9deb768a142@eac8.org
+UID:f6bd1ddc-d3e5-46d5-b02e-3b08fc865be7@f6bd.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Company : Gold Mountain Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: GDMTU
-UID:dff8b73c-15df-406b-aad1-ce2ef373b7cf@dff8.org
+DTSTART;VALUE=DATE:20260716
+DESCRIPTION:Company : MetaOptics Ltd\nExchange: NASDAQ Capital\nShares  : 3 M\nPrice   : 5.00-7.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: MOT
+UID:6d72e269-929c-466d-95bd-fd5909eb34c4@6d72.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Company : Samos Energy Acquisition Corp\nExchange: NYSE\nShares  : 20 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE
+SUMMARY:IPO: SAMOU
+UID:43ba284f-6854-46dc-8ba4-188d25062df8@43ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Company : APEX Global Solutions Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:fed94dd4-a266-4c69-aecd-cef93c6ed4e5@fed9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260708
+DESCRIPTION:Company : Catalyst Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CATLU
+UID:0bfd35d0-c8c8-430f-a5a9-a5df9b3fed0c@0bfd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260713
+DESCRIPTION:Company : Material Resource Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: MTRLU
+UID:a9d698ae-a508-4a13-841e-8e17e2f8fe2e@a9d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260706
+DESCRIPTION:Company : RanMarine Technology B.V.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:2b41a2f4-ba41-4718-ae82-d41c0e4c5c06@2b41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260717
+DESCRIPTION:Company : Southern Cross Acquisition I Corp.\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: NCOU
+UID:7eed1f8c-57d1-4060-9518-0fa2987b3e12@7eed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260716
+DESCRIPTION:Company : Csquare\, Inc.\nExchange: NYSE\nShares  : 50 M\nPrice   : $21.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE
+SUMMARY:IPO: CSQR
+UID:bd789c74-9bb0-46e8-851f-5664c56b6499@bd78.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260708
+DESCRIPTION:Company : Freedom Metals Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 28 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: FDMMU
+UID:b488f0da-9fe2-46fc-a0ac-1422b9df06d1@b488.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+DESCRIPTION:Company : Mercator Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 15 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: MRCOU
+UID:418fdb29-ba8d-48dc-b990-b2f1ddbfe966@418f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+DESCRIPTION:Company : Tarsier Pharma Ltd.\nExchange: NYSE\nShares  : 5 M\nPrice   : 8.00-10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE
+SUMMARY:IPO: TARX
+UID:cde6d689-b4a3-4cbb-be29-c2d209bc91f2@cde6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260713
+DESCRIPTION:Company : YPF Energia Electrica S.A.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: YLUZ
+UID:1bfd8393-5cee-4323-9724-5a9861e81805@1bfd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:Company : Churchill Capital Corp XIII\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: XIIIU
+UID:f77d3582-b046-445e-863e-63f5b0de89d7@f77d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Company : Apnimed\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: APMD
+UID:01707059-7511-4b15-8ff6-cae54042f24e@0170.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Company : Sin Lian Seng Construction\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: ININ
+UID:95583592-1f2c-452c-bb9f-bb337cef68ea@9558.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Company : Timwood Holdings Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: TIWD
+UID:967742cd-148f-44d6-8df3-b0cd00fbb922@9677.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:Company : Braveheart Bio\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: BRVE
+UID:b4b028c7-b30a-4822-bb6b-5296859202b5@b4b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260713
+DESCRIPTION:Company : Research Alliance Corp IV\nExchange: NASDAQ Capital\nShares  : 8 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: RACD
+UID:56cc59ae-a326-4bf4-a0ed-a339ec8ae943@56cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+DESCRIPTION:Company : Chilwa Minerals Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CHWM
+UID:776b5a71-b7db-4c4f-a75f-1f4b12d04d56@776b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260708
+DESCRIPTION:Company : Cloud Data Holdings Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:758a21fc-f40f-41b8-b8cf-10a4c6474211@758a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260716
+DESCRIPTION:Company : Standard Nuclear\, Inc.\nExchange: NYSE\nShares  : 10 M\nPrice   : $15.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE
+SUMMARY:IPO: STDN
+UID:65c3611b-d03c-4be6-b59d-0b403ed23c60@65c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:Company : Vogenx\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: VOGX
+UID:acbedb43-aa40-4576-899e-94f41c65722d@acbe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+DESCRIPTION:Company : Columbus Circle Capital Corp III\nExchange: NASDAQ Global\nShares  : 20 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: CCCTU
+UID:20bbdba2-dbc3-48c7-922b-dfea6d60122a@20bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+DESCRIPTION:Company : Southern Cross Acquisition II Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: SCATU
+UID:61bfe15f-08e9-4e29-9d71-aeb6cd5f5e86@61bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260708
+DESCRIPTION:Company : INFINT Acquisition Corp 2\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:450fdc94-fac5-4d89-af53-7ed75402409a@450f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260706
+DESCRIPTION:Company : Syntiant Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: SYTN
+UID:ffac635e-5cc0-45ad-b951-5598470bd76e@ffac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Company : Holtec Nuclear Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: HNUC
+UID:d3be18b6-e9da-42e5-8fd9-564847f646ac@d3be.org
 END:VEVENT
 END:VCALENDAR
