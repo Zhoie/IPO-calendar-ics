@@ -2,159 +2,129 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260910
-DESCRIPTION:Company : Motive Technologies\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:b9bef84e-347c-4892-b8fe-c06995a07912@b9be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Company : Leader's Advantage Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 15 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: LEDRU
-UID:6dce08b3-f48c-43cd-8569-b33e62babe3b@6dce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260915
-DESCRIPTION:Company : Oceanhawk Acquisition II Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: OHIIU
-UID:41ef897b-fcd2-4d58-8964-70bb7d8709d4@41ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Company : Hao Feng Group Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: HFE
-UID:3d40fe1d-f555-4f62-b021-91de66be3604@3d40.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Company : FutureCore Acquisition Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: FTCRU
-UID:91ce615e-6bcd-4b69-a6bb-9d3c7b377a85@91ce.org
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:Company : Football Manager SPAC Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: FBLLU
+UID:989abe1b-16cf-4bcb-a9ce-272e4742ed96@989a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260915
 DESCRIPTION:Company : OTSAW Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: None
-UID:53bb56e2-7d53-41ed-94ce-bfe4903019c7@53bb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260909
-DESCRIPTION:Company : Football Manager SPAC Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: FBLLU
-UID:cd56760e-56ad-4784-a57f-9a81015691bf@cd56.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Company : Legion Capital Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: LCADU
-UID:07643111-3968-48ef-9eb4-f1df7d892bb4@0764.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260910
-DESCRIPTION:Company : Allarity Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: ALLNU
-UID:89894133-15a2-4df0-9f56-ad4865b1c770@8989.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Company : Meey Global Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:fed02fa4-ab24-4102-af89-1c271bf88c46@fed0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260909
-DESCRIPTION:Company : Harbour Island Acquisition Corp. I\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: HRIAU
-UID:9a49e2fc-6f34-48cf-81bd-cf27033c9883@9a49.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260917
-DESCRIPTION:Company : C2 Capital Group\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:18c50ff6-80a6-4776-9307-857ad7513a84@18c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Company : Idea Tech Holding Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:3c88167e-e3f4-4329-8782-809b190de84f@3c88.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Company : Amaero Inc.\nExchange: NASDAQ Global Select\nShares  : 7 M\nPrice   : $7.06\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global Select
-SUMMARY:IPO: AMRO
-UID:4f125d8a-01f7-4539-9db5-7e4af11a2b27@4f12.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260915
-DESCRIPTION:Company : SPACCircle Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: SCQCU
-UID:437096ee-cbdf-4eda-8652-4a300325a064@4370.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Company : Holtec Nuclear Corp\nExchange: NASDAQ\nShares  : 50 M\nPrice   : 15.00-18.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ
-SUMMARY:IPO: HNUC
-UID:0d377694-0f54-4b8f-adad-19bd4a1d8ce5@0d37.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260916
-DESCRIPTION:Company : Lower Cross Acquisitions Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: LCACU
-UID:1f997283-0f04-4bb7-991c-14c3533ed616@1f99.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-DESCRIPTION:Company : SIYATA PTT\nExchange: NASDAQ Capital\nShares  : 6 M\nPrice   : -\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: PTT
-UID:cf78e782-352b-442f-86c3-7ddc5bbc8a65@cf78.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Company : Bamboo Insurance Services\, Inc.\nExchange: NYSE\nShares  : 35 M\nPrice   : 18.00-20.00\nSource  : Finnhub IPO Calendar
-LOCATION:NYSE
-SUMMARY:IPO: BMB
-UID:3e3077d6-55e8-4d64-9757-0615225ec001@3e30.org
+UID:db89bfd5-659e-4251-bae0-5dabd251f0c1@db89.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260917
 DESCRIPTION:Company : Haymaker Acquisition Corp V\nExchange: NYSE\nShares  : 25 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NYSE
 SUMMARY:IPO: HYACU
-UID:b86656c0-426b-4bf6-a170-8385496ae0c0@b866.org
+UID:5a30dedc-4c91-4250-a4e5-aaf35b732970@5a30.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+DESCRIPTION:Company : Oceanhawk Acquisition II Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: OHIIU
+UID:ded523ba-2734-43ac-bd28-93cff2488543@ded5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DESCRIPTION:Company : C2 Capital Group\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:12cdadd8-050e-4922-8cd4-38f2612e02f5@12cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+DESCRIPTION:Company : Motive Technologies\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:c6f8d31b-aec7-4aee-83e3-66c28318445e@c6f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DESCRIPTION:Company : Holtec Nuclear Corp\nExchange: NASDAQ\nShares  : 50 M\nPrice   : 15.00-18.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ
+SUMMARY:IPO: HNUC
+UID:35891588-34cc-4a06-acfa-c073c7e7bb05@3589.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Company : FutureCore Acquisition Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: FTCRU
+UID:4f2015c9-5e73-4d40-bcb6-417bf47161bf@4f20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+DESCRIPTION:Company : SPACCircle Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: SCQCU
+UID:0e36da35-2989-4e2c-87b5-032eeaf2da90@0e36.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Company : Meey Global Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:b938a730-26e5-4aa4-955e-5b10b84290a5@b938.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DESCRIPTION:Company : Leader's Advantage Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 15 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: LEDRU
+UID:2add6473-2d51-49f4-917d-5cb7e35e121c@2add.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:Company : SIYATA PTT\nExchange: NASDAQ Capital\nShares  : 6 M\nPrice   : -\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: PTT
+UID:c7111078-49fd-479f-a9aa-c3a51181898b@c711.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+DESCRIPTION:Company : Allarity Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: ALLNU
+UID:b01dea5a-8cdf-4fe8-8150-24de0c81bfb6@b01d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Company : Bamboo Insurance Services\, Inc.\nExchange: NYSE\nShares  : 35 M\nPrice   : 18.00-20.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE
+SUMMARY:IPO: BMB
+UID:0c66fc4b-0581-4bf3-b698-7e340de5f308@0c66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260916
+DESCRIPTION:Company : Lower Cross Acquisitions Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: LCACU
+UID:f9efd40f-a544-4533-b749-e184853eae9b@f9ef.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:Company : Elevation Acquisition Group Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: ELEVU
-UID:3011244e-9e0c-4c13-9437-51164bdc7cc5@3011.org
+UID:6199025b-dab8-47b0-ba3f-dff4a1546b1a@6199.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Company : ADARx Pharmaceuticals\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: ADRX
-UID:c147714f-1aed-4cb9-9aee-d556c2b5033f@c147.org
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Company : Amaero Inc.\nExchange: NASDAQ Global Select\nShares  : 7 M\nPrice   : $7.06\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global Select
+SUMMARY:IPO: AMRO
+UID:2657951e-d9dd-4e75-97b2-058f6b3193a8@2657.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260908
 DESCRIPTION:Company : Jingrui Wang Pu Holdings Group Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: JRWP
-UID:59dba775-0d4e-401b-a88e-d67591c66ed3@59db.org
+UID:a258397c-4815-4efd-8f47-82b0dd49c4f2@a258.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Company : Rothe Development\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:099a2360-8509-410f-b399-60f388ecc2d3@099a.org
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Company : Hao Feng Group Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: HFE
+UID:34d7583b-b4ca-4577-ac2f-2d9bdb660097@34d7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Company : New Iceland Arctic Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: NIAAU
-UID:115977a8-f9f0-436a-9a23-73cfb757c6f7@1159.org
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:Company : Harbour Island Acquisition Corp. I\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: HRIAU
+UID:104b9cda-27ff-4916-9d16-342de135f76e@104b.org
 END:VEVENT
 END:VCALENDAR
