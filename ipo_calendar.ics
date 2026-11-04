@@ -2,130 +2,131 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261029
-DESCRIPTION:Company : Redwoods Acquisition Corp II\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:20e68342-265e-45ed-8699-9e80f7590e77@20e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Company : WINDWARD BIO GROUP AG\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: WWB
-UID:8d5b95b4-d330-494b-b92f-74a6eb5fb472@8d5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-DESCRIPTION:Company : Heroic Empire Acquisition Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:6d83b890-0a12-4c5f-b841-554342b01e40@6d83.org
+DTSTART;VALUE=DATE:20261102
+DESCRIPTION:Company : GLAMOORE Capital Group Co Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:2557801a-9952-42fe-a805-6be5a45aa2de@2557.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261027
 DESCRIPTION:Company : SPACCircle Acquisition Corp.\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: SCQCU
-UID:f213cfd8-d836-4bdb-959e-4dc29dbdbf38@f213.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261029
-DESCRIPTION:Company : GEORGIA BANKING CO INC\nExchange: NASDAQ Capital\nShares  : 7 M\nPrice   : -\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: GBC
-UID:47c87af6-e291-4b7b-9bca-789ff0fbf51a@47c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261029
-DESCRIPTION:Company : Onyx Capital Tequila Partners IV\, LLC\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: KATX
-UID:7e18af5a-1b3d-48cd-aca4-23c5fa0bea94@7e18.org
+UID:0ab0dbfd-4fca-4b56-9836-c572371f155f@0ab0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261026
 DESCRIPTION:Company : LIS Technologies Inc\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: LIS
-UID:6a6b8d9a-fa22-40c2-a343-d0c1265ced2c@6a6b.org
+UID:bdf16cfe-fc69-46b6-9794-b184e24ce739@bdf1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261019
-DESCRIPTION:Company : Kepuni Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+DTSTART;VALUE=DATE:20261102
+DESCRIPTION:Company : Narragansett Bancorp\, Inc.\nExchange: NASDAQ Capital\nShares  : 9 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: NARA
+UID:1533c721-b86b-4494-8537-00170b4cef3b@1533.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261026
+DESCRIPTION:Company : EvoNexus Group LTD\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: None
-UID:98a92346-d1f8-4bc7-99d3-91a0861022da@98a9.org
+UID:4f4b21fb-5f31-4fb8-8427-7ac308f4b85e@4f4b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:Company : Focus Media Network Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: FMSN
-UID:03ac923c-f0e2-4637-9ca1-d849314da9bb@03ac.org
+UID:1ee0dc16-cca2-4497-943a-06573de86966@1ee0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
-DESCRIPTION:Company : Bambusa Therapeutics\, Inc.\nExchange: NASDAQ Global Select\nShares  : 11 M\nPrice   : $16.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global Select
-SUMMARY:IPO: BBTX
-UID:f8a48742-7e16-403a-91eb-0d9f7a15a237@f8a4.org
+DESCRIPTION:Company : UCSB Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: UCSBU
+UID:190cfd3e-6767-4341-8505-87a9792fc46b@190c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+DESCRIPTION:Company : Heroic Empire Acquisition Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:100da8de-4971-4b1e-8dee-f092a2b7bfd0@100d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
 DESCRIPTION:Company : DAVION HEALTHCARE PLC\nExchange: NASDAQ Global\nShares  : 25 M\nPrice   : -\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: DAVI
-UID:040059d5-43aa-487b-92a2-daf84cc36ad9@0400.org
+UID:1a3b0c4d-1587-4ecd-9ffd-7dfb66add2f5@1a3b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261030
-DESCRIPTION:Company : UCSB Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: UCSBU
-UID:ad82007e-cb87-4dd3-b8c1-63dc729497db@ad82.org
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Company : WINDWARD BIO GROUP AG\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: WWB
+UID:acd4ba39-f6d0-4bb1-a937-43102e61f692@acd4.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Company : Aspen Neuroscience\, Inc.\nExchange: NASDAQ Global Select\nShares  : 9 M\nPrice   : $15.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global Select
 SUMMARY:IPO: ASPE
-UID:d3a485a5-035d-45a9-9821-8f5bbc097cec@d3a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261019
-DESCRIPTION:Company : iStep Learning Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: ISTL
-UID:b3a554b8-07ef-4719-a4b7-0c6b9cbb80de@b3a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Company : Lycia Therapeutics\, Inc.\nExchange: NASDAQ Global Select\nShares  : 18 M\nPrice   : $18.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global Select
-SUMMARY:IPO: LYCA
-UID:22a40f43-0381-45c8-b529-2659b1c9b27d@22a4.org
+UID:1b15f7a3-20f4-4a0f-b7d3-7d972c326c6b@1b15.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261026
-DESCRIPTION:Company : EvoNexus Group LTD\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:4c29ccbc-340e-46bd-beaf-35093b1f8432@4c29.org
+DESCRIPTION:Company : Anthropic\, PBC\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: ANT
+UID:f958c499-43e8-4569-9122-c5203e1cfa2f@f958.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+DESCRIPTION:Company : Sensing4D AI Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:9b402bcb-475a-4e44-8c62-6ec96e3ced31@9b40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+DESCRIPTION:Company : NODTHERA INC.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: RZRA
+UID:f3d31e96-b9cc-4313-b3ce-4efae9ee9cd6@f3d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Company : GEORGIA BANKING CO INC\nExchange: NASDAQ Capital\nShares  : 7 M\nPrice   : -\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: GBC
+UID:05345e20-dc41-4943-90a7-d221cf1f0e7a@0534.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Company : Redwoods Acquisition Corp II\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:f3373f47-f47d-4e3b-a642-d68152219c1a@f337.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:Company : BHAV Acquisition Corp II\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: BHAIU
-UID:a9af6911-b07d-4b2a-96ed-cd878d963999@a9af.org
+UID:7628eaa2-461c-4ce8-9e28-45a40a076b2a@7628.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261021
-DESCRIPTION:Company : NODTHERA INC.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: RZRA
-UID:6e4c0946-ebdf-4943-b3bc-00adba2b861c@6e4c.org
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Company : Onyx Capital Tequila Partners IV\, LLC\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: KATX
+UID:b3c6b8af-3c84-40ba-8b41-b53c86032cf1@b3c6.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261026
-DESCRIPTION:Company : Anthropic\, PBC\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: ANT
-UID:08232c90-1bfe-4d97-8c54-6b3d2ec68b5a@0823.org
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Company : Bambusa Therapeutics\, Inc.\nExchange: NASDAQ Global Select\nShares  : 11 M\nPrice   : $16.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global Select
+SUMMARY:IPO: BBTX
+UID:3b8b0f56-ce25-467c-b3ea-b524f4d0da41@3b8b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261021
-DESCRIPTION:Company : Sensing4D AI Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:8b846dd5-bda2-4191-8df8-cdb46131b2b5@8b84.org
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Company : Lycia Therapeutics\, Inc.\nExchange: NASDAQ Global Select\nShares  : 18 M\nPrice   : $18.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global Select
+SUMMARY:IPO: LYCA
+UID:54cde1df-8def-4033-aace-09b4cc1d40f2@54cd.org
 END:VEVENT
 END:VCALENDAR
