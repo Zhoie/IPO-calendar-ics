@@ -2,169 +2,156 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261102
-DESCRIPTION:Company : Narragansett Bancorp\, Inc.\nExchange: NASDAQ Capital\nShares  : 9 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : Tracx Logis Ltd.\nExchange: NASDAQ Capital\nShares  : 1 M\nPrice   : 18.00-22.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Capital
-SUMMARY:IPO: NARA
-UID:97b8a870-d37e-43bf-832a-0ae8200b0dd8@97b8.org
+SUMMARY:IPO: TRCX
+UID:c0871cab-81de-4d3b-8997-0e96c0fbc20b@c087.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261105
+DESCRIPTION:Company : Kartoon Studios Acquisition Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: KACQU
+UID:0df75885-3382-423d-a915-4dfcc3a559a9@0df7.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261109
 DESCRIPTION:Company : Bitari Inc\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: None
-UID:dfa9f1be-1875-4fd0-a8bf-cf22aae61ed3@dfa9.org
+UID:0130d34d-cbcd-45a3-8cb6-0e61ae4af374@0130.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261102
-DESCRIPTION:Company : GLAMOORE Capital Group Co Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:ef1bd678-1252-4070-b5c6-1b4036473f77@ef1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261110
-DESCRIPTION:Company : American Barrick Gold Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: ABGC
-UID:09d2ec3e-6bd8-4f78-939c-684cb381452b@09d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261030
-DESCRIPTION:Company : UCSB Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: UCSBU
-UID:a68f4786-c933-472d-aff2-aed1e4e78d81@a68f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261119
-DESCRIPTION:Company : ANTHROPIC\, PBC\nExchange: NASDAQ Global Select\nShares  : 825 M\nPrice   : 70.00-78.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global Select
-SUMMARY:IPO: ANT
-UID:12e5f755-982e-4d2d-b93f-dad29a46b199@12e5.org
+DESCRIPTION:Company : Narragansett Bancorp\, Inc.\nExchange: NASDAQ Capital\nShares  : 9 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: NARA
+UID:5e1812ab-044d-410c-9ec2-ca65fba1e02e@5e18.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261109
 DESCRIPTION:Company : ZA Acquisition Corp. I\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: ZACAU
-UID:cda12f66-d9d5-4602-8e20-f7e28491cf2d@cda1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : WINDWARD BIO GROUP AG\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : 16.00-18.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: WWB
-UID:6e0f7fbb-9d06-4584-8935-145b87d85e08@6e0f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261104
-DESCRIPTION:Company : Churchill Capital Corp XIV\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: CXIVU
-UID:ff3b96c5-d9bb-4ec2-acd0-dc7b021ea050@ff3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261104
-DESCRIPTION:Company : DT House Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:ab6a44c6-0da0-437f-a0a1-5446fe371495@ab6a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261029
-DESCRIPTION:Company : BHAV Acquisition Corp II\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: BHAIU
-UID:b78cd711-9a6f-43ff-bb4a-7ddfb633109f@b78c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261028
-DESCRIPTION:Company : Focus Media Network Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: FMSN
-UID:b8d444ac-8d10-442a-8f26-d0345b493016@b8d4.org
+UID:a974519d-af87-4100-b619-f6678687e388@a974.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Company : Bambusa Therapeutics\, Inc.\nExchange: NASDAQ Global Select\nShares  : 11 M\nPrice   : $16.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global Select
 SUMMARY:IPO: BBTX
-UID:573809e9-7af7-485a-b20a-e7156ad7e0d7@5738.org
+UID:7f8f8b64-94b8-4ed3-8fbd-e916b102c39d@7f8f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Company : BEHNEH Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: BENE
-UID:ca917e0f-130d-4661-8cda-f843a4938c1c@ca91.org
+DTSTART;VALUE=DATE:20261102
+DESCRIPTION:Company : GLAMOORE Capital Group Co Ltd.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:335cdaec-a59a-4a45-b9c3-49241a48d1fe@335c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : vVARDIS Holding AG\nExchange: NYSE\nShares  : 10 M\nPrice   : 21.00-24.00\nSource  : Finnhub IPO Calendar
-LOCATION:NYSE
-SUMMARY:IPO: VVVV
-UID:ced2b4a6-2253-472c-97b5-437fd101feb1@ced2.org
+DTSTART;VALUE=DATE:20261104
+DESCRIPTION:Company : Churchill Capital Corp XIV\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CXIVU
+UID:ebf90a78-145a-42df-b057-3b4f11308a06@ebf9.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Company : UC Automotive Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Company : Redwoods Acquisition Corp II\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: 
-UID:beabfb09-5a47-496b-98d8-79ae7d29336e@beab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : Tracx Logis Ltd.\nExchange: NASDAQ Capital\nShares  : 1 M\nPrice   : 18.00-22.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: TRCX
-UID:aa972acc-af9c-4188-b7bd-30150b5b4c8d@aa97.org
+UID:b90dc5b5-93ff-438c-8cdf-67e305ce0734@b90d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Company : Aspen Neuroscience\, Inc.\nExchange: NASDAQ Global Select\nShares  : 9 M\nPrice   : $15.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global Select
 SUMMARY:IPO: ASPE
-UID:54668c1f-660a-44df-bebc-14dd1e70ca9a@5466.org
+UID:c6ad72cc-1d7a-42a0-b107-d78c6ffa2d49@c6ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Company : AParadise III Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: APCDU
+UID:fd9e7a18-1769-441a-9262-304c29a1d30d@fd9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Company : Onyx Capital Tequila Partners IV\, LLC\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: KATX
+UID:da5662c3-d6cc-4f37-947e-86f4e279b626@da56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : vVARDIS Holding AG\nExchange: NYSE\nShares  : 10 M\nPrice   : 21.00-24.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE
+SUMMARY:IPO: VVVV
+UID:1aac407f-3051-4b10-9272-1fd4585411e4@1aac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : WINDWARD BIO GROUP AG\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : 16.00-18.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: WWB
+UID:14b9fa3e-2770-40f3-aa11-b0513e4a0dab@14b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Company : BHAV Acquisition Corp II\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: BHAIU
+UID:8b8313b3-1b59-45b8-b703-a439821ce5fc@8b83.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Company : UCSB Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: UCSBU
+UID:2158d728-8bd3-47a3-844c-a6832169c823@2158.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:Company : GEORGIA BANKING CO INC\nExchange: NASDAQ Capital\nShares  : 7 M\nPrice   : -\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Capital
 SUMMARY:IPO: GBC
-UID:2a2b6474-7114-4dc4-ab26-cf896f375843@2a2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261109
-DESCRIPTION:Company : Research Alliance Corp V\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: RACV
-UID:6ce5c1ba-1d39-41f2-9ea1-2f75978021b3@6ce5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261029
-DESCRIPTION:Company : Redwoods Acquisition Corp II\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:7c1e7507-7835-4c91-b8b6-681bac04d2f2@7c1e.org
+UID:2976ad9d-c4cf-424f-91f7-9b2d86ec9450@2976.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
 DESCRIPTION:Company : Guitar Group Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: 
-UID:27377de3-2f8e-4384-96de-e7a76e8a82ac@2737.org
+UID:a7adb0f1-43d1-4191-a23a-aaf1ba025f55@a7ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261110
+DESCRIPTION:Company : American Barrick Gold Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: ABGC
+UID:41eac196-7504-4a39-8c0a-11e13a03df2f@41ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+DESCRIPTION:Company : Research Alliance Corp V\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: RACV
+UID:2283b59e-3fa4-45ec-8254-8c1acb64de1d@2283.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:Company : ANTHROPIC\, PBC\nExchange: NASDAQ Global Select\nShares  : 825 M\nPrice   : 70.00-78.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global Select
+SUMMARY:IPO: ANT
+UID:16fe2b7a-ce3c-49f6-bfe6-9868469c394a@16fe.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Company : AParadise III Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: APCDU
-UID:86825858-0e93-45c9-921a-1be7361aaa92@8682.org
+DESCRIPTION:Company : BEHNEH Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: BENE
+UID:2c20fad5-6a86-4bf0-b68c-85e2ee340760@2c20.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261112
-DESCRIPTION:Company : Rezera Inc.\nExchange: NASDAQ Global\nShares  : 17 M\nPrice   : 11.00-13.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: RZRA
-UID:a15a772a-64b0-42b7-a651-f3eb170ec0de@a15a.org
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Company : UC Automotive Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:307f6a42-12e7-405a-ac60-ea716ea125fc@307f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261029
-DESCRIPTION:Company : Onyx Capital Tequila Partners IV\, LLC\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: KATX
-UID:248cd55e-c172-4c22-b0a0-cb57d946b43e@248c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261105
-DESCRIPTION:Company : Kartoon Studios Acquisition Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: KACQU
-UID:518d9376-8899-4b4a-9e59-1f9084ce92e8@518d.org
+DTSTART;VALUE=DATE:20261104
+DESCRIPTION:Company : DT House Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:c7410391-0f19-4caa-afb9-c6695c8d3906@c741.org
 END:VEVENT
 END:VCALENDAR
