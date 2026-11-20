@@ -2,116 +2,129 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : Tracx Logis Ltd.\nExchange: NASDAQ Capital\nShares  : 1 M\nPrice   : 18.00-22.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Capital
+SUMMARY:IPO: TRCX
+UID:1f998a36-2f36-44c9-b07c-31afe03877ab@1f99.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Company : BEHNEH Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: BENE
+UID:8fdf15cc-ac5f-4bb4-9070-83d7165a3e60@8fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Company : AParadise III Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: APCDU
+UID:bb7b89bc-78e2-4b85-8aba-becf95b0c368@bb7b.org
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261116
-DESCRIPTION:Company : EIR Biopharma\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:66624904-e04e-417b-8702-035e8d988975@6662.org
+DESCRIPTION:Company : Core Specialty Insurance Holdings\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CORE
+UID:8757fd1d-75bf-4199-88d6-60825bff9704@8757.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Company : UC Automotive Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:fb6998e6-c508-42f2-bf39-1eb0f14beeda@fb69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:Company : Anthropic\, PBC\nExchange: NASDAQ Global Select\nShares  : 980 M\nPrice   : $83.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global Select
+SUMMARY:IPO: ANT
+UID:c9dcffb5-1006-4567-b93e-87f925da2312@c9dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261105
+DESCRIPTION:Company : Guitar Group Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:a557889e-a5a8-44d8-8964-6b7807c09b15@a557.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261109
-DESCRIPTION:Company : ZA Acquisition Corp. I\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: ZACAU
-UID:794d419e-ef8f-4aab-898a-eee493cba910@794d.org
+DESCRIPTION:Company : Bitari Inc\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:703c1950-043b-48a5-b161-91df88a4c6b1@703c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+DESCRIPTION:Company : Research Alliance Corp V\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: RACV
+UID:fba78602-4dc2-4198-b8c3-b803fe8ba9ed@fba7.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Company : vVARDIS Holding AG\nExchange: NYSE\nShares  : 10 M\nPrice   : $18.00\nSource  : Finnhub IPO Calendar
 LOCATION:NYSE
 SUMMARY:IPO: VVVV
-UID:ee7b4a54-f4b0-42b5-801c-03fad0dcb7c2@ee7b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Company : BEHNEH Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: BENE
-UID:4bc06ef0-84fa-44ab-936b-3c9ecb082fcf@4bc0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261110
-DESCRIPTION:Company : American Barrick Gold Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: ABGC
-UID:ac0d1e60-e638-4b62-9a14-b79fe90a8361@ac0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Company : UC Automotive Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:de04101b-1d8b-43aa-a64a-a7b68c6b9379@de04.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : Tracx Logis Ltd.\nExchange: NASDAQ Capital\nShares  : 1 M\nPrice   : 18.00-22.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Capital
-SUMMARY:IPO: TRCX
-UID:98991c3e-da11-45ab-9734-9329404679bb@9899.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261109
-DESCRIPTION:Company : Bitari Inc\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:415365b4-a58e-4a34-9fe9-c117c7409602@4153.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : Compute AI Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: AICPU
-UID:db285ed0-b669-4d5a-a20f-35891e92926f@db28.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : WINDWARD BIO GROUP AG\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $17.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: WWB
-UID:3f6a29aa-f241-4e18-b1cd-b3a2924df4cc@3f6a.org
+UID:3a79d277-1ed4-4bb1-bb6f-3b5b24b283e9@3a79.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
 DESCRIPTION:Company : Kartoon Studios Acquisition Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: KACQU
-UID:fa61e4e0-e4e3-42ae-a33a-0d63f6155125@fa61.org
+UID:4d37ee8a-f9ec-48c5-8762-ec8227efa3b8@4d37.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261116
-DESCRIPTION:Company : Core Specialty Insurance Holdings\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: CORE
-UID:ed5dc605-e904-46eb-998d-ec2dd1108b99@ed5d.org
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : Compute AI Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: AICPU
+UID:f9981bd4-bfb8-4f87-9192-d20590887866@f998.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261120
 DESCRIPTION:Company : Football Manager SPAC Inc.\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: FBLLU
-UID:a87defe5-0a64-4b11-8279-4d88520db71b@a87d.org
+UID:55020332-aff4-4db7-95a1-abf4db9f0146@5502.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261105
-DESCRIPTION:Company : Guitar Group Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : WINDWARD BIO GROUP AG\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $17.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: WWB
+UID:27d2eb41-2abf-4624-8780-b4a26124c868@27d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261110
+DESCRIPTION:Company : American Barrick Gold Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: ABGC
+UID:3096b32f-57b2-48a9-b0c7-6a1efff1ba1e@3096.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : CloudDepots Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
 SUMMARY:IPO: 
-UID:02e2301e-3888-443f-b7d0-389a5c77cdae@02e2.org
+UID:5aa8ec52-06a9-4ea5-9d8a-3ef9dc8cac54@5aa8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Company : AParadise III Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: APCDU
-UID:17a84c33-e41e-453f-81c5-761f4f964d82@17a8.org
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:Company : Zeno42 Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: ZENO
+UID:f8b88102-0d4e-407d-b3f8-15dcd8334ca0@f8b8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Company : Modern Mining Technology Corp.\nExchange: NYSE MKT\nShares  : 9 M\nPrice   : $4.25\nSource  : Finnhub IPO Calendar
 LOCATION:NYSE MKT
 SUMMARY:IPO: MDRN
-UID:eee76442-3c35-4e33-abde-9de630acf8ef@eee7.org
+UID:c2c2e2e6-6455-485f-9e04-a4d582dfca78@c2c2.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : CloudDepots Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:b938358f-e4d5-4bf5-ad3b-fa96b216ffef@b938.org
+DTSTART;VALUE=DATE:20261116
+DESCRIPTION:Company : EIR Biopharma\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:46b3d8b4-f380-46dc-897d-d0508880823d@46b3.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261109
-DESCRIPTION:Company : Research Alliance Corp V\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: RACV
-UID:0135d983-366f-4f1d-bd59-aa8f9cd9354d@0135.org
+DESCRIPTION:Company : ZA Acquisition Corp. I\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: ZACAU
+UID:e200a462-480b-47cb-9ede-109da7845a15@e200.org
 END:VEVENT
 END:VCALENDAR
