@@ -2,111 +2,141 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : Modern Mining Technology Corp.\nExchange: NYSE MKT\nShares  : 9 M\nPrice   : $4.25\nSource  : Finnhub IPO Calendar
-LOCATION:NYSE MKT
-SUMMARY:IPO: MDRN
-UID:38e45994-391b-4144-a633-5f2604e88ae6@38e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DESCRIPTION:Company : AOJE INC.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:7bee8bf3-7e49-4c17-9154-cd59578c42ee@7bee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : WINDWARD BIO GROUP AG\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $17.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global
-SUMMARY:IPO: WWB
-UID:7a181b6f-4607-4974-9e60-57b2456d544b@7a18.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261124
-DESCRIPTION:Company : EarLens Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: EARS
-UID:8e16125b-30e7-44e1-ac41-10e45211a7be@8e16.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : Compute AI Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: AICPU
-UID:2655d4e5-a5bb-451a-8baf-844d8041cc46@2655.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DESCRIPTION:Company : Beta FinTech Holdings Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:6ec65223-376a-4615-8eb8-02e5cfa269d7@6ec6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DESCRIPTION:Company : Tongda International Group Co.\, Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: TDHG
-UID:8d9e0962-b54a-4537-8e9f-329d622203fe@8d9e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261116
-DESCRIPTION:Company : EIR Biopharma\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:bfc1fc4f-dc6c-4945-a4dd-42ce37f51338@bfc1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261123
-DESCRIPTION:Company : LIBERTYSTREAM INFRASTRUCTURE PARTNERS INC.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: LSTM
-UID:7b74e611-4324-4eb3-b06b-bc293e8df03d@7b74.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : vVARDIS Holding AG\nExchange: NYSE\nShares  : 10 M\nPrice   : $18.00\nSource  : Finnhub IPO Calendar
-LOCATION:NYSE
-SUMMARY:IPO: VVVV
-UID:ef498fe3-c54b-4701-8343-0c4c2d3f257e@ef49.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261119
-DESCRIPTION:Company : Anthropic\, PBC\nExchange: NASDAQ Global Select\nShares  : 980 M\nPrice   : $83.00\nSource  : Finnhub IPO Calendar
-LOCATION:NASDAQ Global Select
-SUMMARY:IPO: ANT
-UID:a173c820-a32f-4ad1-91a5-e35932722d9d@a173.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261120
 DESCRIPTION:Company : Football Manager SPAC Inc.\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $10.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Global
 SUMMARY:IPO: FBLLU
-UID:684cc5ff-29ea-452b-ac63-b6d77db19916@684c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261116
-DESCRIPTION:Company : Core Specialty Insurance Holdings\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: CORE
-UID:dabba31f-00db-49be-a802-dd7d362ab502@dabb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261119
-DESCRIPTION:Company : Zeno42 Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: ZENO
-UID:cf8da4f5-ef99-4ac6-99c0-7dc78ea790fc@cf8d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Company : CloudDepots Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: 
-UID:14821404-bdc7-4fcc-9a20-ed9ca54a94cf@1482.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261124
-DESCRIPTION:Company : Cafe Deco Group Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
-SUMMARY:IPO: None
-UID:338c4939-d252-406b-bfd6-073081c017e2@338c.org
+UID:36ea4d72-1ca2-44fa-8a58-6600c28a8a1b@36ea.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Company : Tracx Logis Ltd.\nExchange: NASDAQ Capital\nShares  : 1 M\nPrice   : 18.00-22.00\nSource  : Finnhub IPO Calendar
 LOCATION:NASDAQ Capital
 SUMMARY:IPO: TRCX
-UID:8cc57057-508e-476c-9913-11669dc9ccff@8cc5.org
+UID:8ddb3c05-5622-48eb-b5c3-74da3a3f03a1@8ddb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261123
+DESCRIPTION:Company : LIBERTYSTREAM INFRASTRUCTURE PARTNERS INC.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: LSTM
+UID:923b9c05-b15e-4f18-9c0d-3aad4526860f@923b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+DESCRIPTION:Company : ALGOBIZZ Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: ALZZ
+UID:42a39250-d258-4503-935d-8f53dd751d46@42a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Company : AOJE INC.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:dc50ec42-6bec-4937-aa9e-82466f4636e7@dc50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:Company : Anthropic\, PBC\nExchange: NASDAQ Global Select\nShares  : 980 M\nPrice   : $83.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global Select
+SUMMARY:IPO: ANT
+UID:d70f1c9b-f3c9-4cb3-b06f-5471b22efa83@d70f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : Compute AI Acquisition Corp.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: AICPU
+UID:4f5247fe-e271-47d1-bd01-5eb7ff8f3ca7@4f52.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Company : Beta FinTech Holdings Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:cc93c5d4-69ee-434e-a7bd-08a70b33b627@cc93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261124
+DESCRIPTION:Company : Cafe Deco Group Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:5a0e2986-ac28-453e-b931-945dc44ff3cf@5a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : vVARDIS Holding AG\nExchange: NYSE\nShares  : 10 M\nPrice   : $18.00\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE
+SUMMARY:IPO: VVVV
+UID:aacc45fb-3177-415c-9c05-d678376711a6@aacc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : CloudDepots Holdings Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:98bbf3b1-6fc0-479a-9233-1399cae132d2@98bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+DESCRIPTION:Company : Indrocorp Technologies Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: 
+UID:d959eab7-2fce-4dc7-8f00-7f3ff3c44377@d959.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+DESCRIPTION:Company : CSTS Enterprises Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CSTS
+UID:ba47b8e9-c162-4eef-a0e1-2be8cbb5f974@ba47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261116
+DESCRIPTION:Company : EIR Biopharma\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:85aadbff-5948-495f-80a9-af3b50ca6c34@85aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:Company : Zeno42 Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: ZENO
+UID:c8a34f85-75b0-4275-9b97-7e8dc49a86fc@c8a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+DESCRIPTION:Company : Kalohexis\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: KHXS
+UID:60991f7e-eb96-4eeb-bcb4-7fd93c40f79d@6099.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261124
+DESCRIPTION:Company : EarLens Corp\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: EARS
+UID:5d05dd4f-eebe-4093-91f7-200529ebb685@5d05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : WINDWARD BIO GROUP AG\nExchange: NASDAQ Global\nShares  : 10 M\nPrice   : $17.00\nSource  : Finnhub IPO Calendar
+LOCATION:NASDAQ Global
+SUMMARY:IPO: WWB
+UID:de5d77dc-9e91-442b-a4b8-521f74e83a98@de5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Company : Tongda International Group Co.\, Ltd\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: TDHG
+UID:75d14c11-9eec-4858-b8f5-e96e21ad4ab0@75d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+DESCRIPTION:Company : SONIC LIGHTING\, INC.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: None
+UID:87e45a90-880d-433b-a4cc-8bd31701941a@87e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Company : Modern Mining Technology Corp.\nExchange: NYSE MKT\nShares  : 9 M\nPrice   : $4.25\nSource  : Finnhub IPO Calendar
+LOCATION:NYSE MKT
+SUMMARY:IPO: MDRN
+UID:ed10d6f4-4c62-474e-8771-6f2210499e09@ed10.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261116
+DESCRIPTION:Company : Core Specialty Insurance Holdings\, Inc.\nExchange: None\nShares  : -\nPrice   : -\nSource  : Finnhub IPO Calendar
+SUMMARY:IPO: CORE
+UID:f8d83fa1-b230-490d-8fe5-2837775dd8a1@f8d8.org
 END:VEVENT
 END:VCALENDAR
